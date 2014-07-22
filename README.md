@@ -4,7 +4,7 @@ htmlToWiki
 NOTE: _This was my first project_ and my coding style/ability has improved considerably since then. I've 
 committed it here to show my progression in the last five months (this was created in February).
 
-_This will be completely rewritten as a mediawiki maintenance extension shortly_, all issues will be marked as nofix.
+_This will be completely rewritten as a mediawiki maintenance extension shortly_, all issues to this current release will be marked as wontfix.
 
 Used to convert a 800 page, 50k image site ( www.costumes.org ) from html format into a wiki.
 
